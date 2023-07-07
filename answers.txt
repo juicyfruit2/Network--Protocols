@@ -1,0 +1,12 @@
+1.in simple terms, a protocol refers to a set of rules or guidelines that govern the communication and interaction between different systems. It acts as a framework that enables effective and efficient communication by defining the format, order, and behavior of messages exchanged between various systerms.
+
+2.HTTP is built on top of the TCP/IP (Transmission Control Protocol/Internet Protocol) protocol stack. TCP/IP is a fundamental protocol suite that provides the foundation for communication on the internet. It consists of two main protocols: TCP, which handles the reliable transmission of data, and IP, which deals with the routing and addressing of data packets.
+
+3.If a request is successful, the status code of the response will be 200. The HTTP status code 200 is the standard code used to indicate a successful request. It signifies that the server has processed the request and successfully returned the requested resource or information.
+
+4.A stateless protocol is a type of communication protocol in which each individual request-response interaction is independent and does not depend on any previous interactions or stored state information on the server. In other words, the server treats each request it receives as a standalone transaction without any knowledge of prior requests.
+
+
+5.C
+
+6.If a server does not allow you permission to request a specific resource, you can expect to receive a status message of "403 Forbidden."
